@@ -15,10 +15,10 @@
     }
   ],
   "require": {
-    "orchid/platform": "^13.0"
+    "orchid/platform": "^14.0"
   },
   "require-dev": {
-    "orchestra/testbench": "^7.0",
+    "orchestra/testbench": "^8.0",
     "phpunit/phpunit": "^9.0"
   },
   "autoload": {
